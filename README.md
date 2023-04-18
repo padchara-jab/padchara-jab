@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! I'm Jabzazad</h2>
-<a href="https://github.com/jabzazad">Rocket to my main account </a>
-###
+<h2 align="left">Hi 👋! I'm Jab</h2>
+<a href="https://github.com/jabzazad">Rocket to my main account 
+</a>
 
 <img align="right" height="150" src="https://media.giphy.com/media/UAUtB4Oi9U4EM/giphy.gif"  />
 
